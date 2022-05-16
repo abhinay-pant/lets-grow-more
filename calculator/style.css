@@ -1,7 +1,7 @@
 
-    body {
+       body {
         margin: 0px;
-        background-color: rgb(205 205 205);
+        background-color: thistle
     }
     
     .container {
@@ -10,7 +10,7 @@
     }
     
     h1 {
-        font-size: 50px;
+        font-size: 40px;
     }
     
     .calculator {
@@ -36,7 +36,7 @@
     
     button {
         font-size: 35px;
-        background-color: rgb(92, 92, 92);
+        background-color: rgb(28, 96, 44);
         color: white;
         height: 53px;
         width: 90px;
@@ -46,5 +46,5 @@
     }
     
     #equal {
-        background-color: rgb(22, 121, 121);
+        background-color: black
     }
